@@ -21,4 +21,4 @@ Ny name is Ian. Here's some info about me:
 - 👯 I’m looking to collaborate on mathematical computation projects and music-related data projects.
 - 📫 How to reach me: ians.romanvilla@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been playing guitar for the last 7 years! I'm not great, but I love to play whenever I can.
+- ⚡ Fun fact: I've been playing guitar for the last 7 years! I'm not a pro, but I love to play whenever I can.
