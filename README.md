@@ -1,4 +1,4 @@
-## Welcome
+## Hey!
 
 <!--
 **eatsfrog/eatsfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ny name is Ian. Here's some info about me:
+Ny name is Ian. Here's some facts about me:
 - 🎓 I’m currently a statistics student at BYU.
 - 🌱 I'm interested in all topics related to Data Science, Machine Learning and Linear Regression.
 - 👯 I’m looking to collaborate on mathematical computation projects and music-related data projects.
