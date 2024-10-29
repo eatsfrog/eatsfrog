@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 Ny name is Ian. Here's some facts about me:
 - 🎓 I’m currently a statistics student at BYU.
 - 🌱 I'm interested in all topics related to Data Science, Machine Learning and Linear Regression.
-- 👯 I’m looking to collaborate on mathematical computation projects and music-related data projects.
-- 📫 How to reach me: ians.romanvilla@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been playing guitar for the last 7 years! I'm not a pro, but I love to play whenever I can.
+- ⚡ Fun fact: I've been playing guitar for the last 7 years! I'm not very consistent, but I love to play whenever I can.
